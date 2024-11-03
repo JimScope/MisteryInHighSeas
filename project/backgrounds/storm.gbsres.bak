@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "4c5c6109-030a-4316-8d19-d5624f05cf70",
+  "name": "Storm.",
+  "symbol": "bg_storm_",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "Storm..png",
+  "autoColor": true,
+  "tileColors": ""
+}

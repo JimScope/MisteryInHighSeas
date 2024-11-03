@@ -1,0 +1,8 @@
+{
+  "_resourceType": "sound",
+  "id": "981d9345-4fe9-42ba-9fb9-47e80df5d53c",
+  "name": "Cat_Meow.vgm",
+  "symbol": "sound_cat_meow_vgm",
+  "filename": "Cat_Meow.vgm",
+  "type": "vgm"
+}

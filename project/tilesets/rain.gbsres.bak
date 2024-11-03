@@ -1,0 +1,11 @@
+{
+  "_resourceType": "tileset",
+  "id": "14165929-abbf-4cef-ae4c-77a7af5d2e41",
+  "name": "rain",
+  "symbol": "tileset_rain",
+  "width": 2,
+  "height": 1,
+  "imageWidth": 16,
+  "imageHeight": 8,
+  "filename": "rain.png"
+}

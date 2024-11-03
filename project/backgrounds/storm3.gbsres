@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "17895cf3-9231-49fe-a570-c10675b5cb5b",
+  "name": "Storm3",
+  "symbol": "bg_storm3",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "Storm3.png",
+  "tileColors": "",
+  "autoColor": true
+}

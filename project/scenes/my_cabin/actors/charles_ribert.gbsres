@@ -1,0 +1,61 @@
+{
+  "_resourceType": "actor",
+  "id": "028f1423-bb2c-4bfe-bccb-a0c207f2dabc",
+  "name": "Charles Ribert",
+  "frame": 0,
+  "animate": false,
+  "spriteSheetId": "529a62c2-447a-4047-abad-c626ec64ca59",
+  "prefabId": "",
+  "direction": "down",
+  "moveSpeed": 2,
+  "animSpeed": 15,
+  "paletteId": "",
+  "isPinned": false,
+  "persistent": false,
+  "collisionGroup": "",
+  "prefabScriptOverrides": {},
+  "symbol": "actor_0",
+  "script": [],
+  "startScript": [
+    {
+      "command": "EVENT_ACTOR_EMOTE",
+      "args": {
+        "actorId": "$self$",
+        "emoteId": "56423c9c-dca0-4f5b-ad92-28e9660d50f1"
+      },
+      "id": "e7746c88-d8b3-47f2-b997-aec4a37a9f3e"
+    }
+  ],
+  "updateScript": [
+    {
+      "command": "EVENT_ACTOR_MOVE_TO",
+      "args": {
+        "actorId": "$self$",
+        "x": {
+          "type": "number",
+          "value": 20
+        },
+        "y": {
+          "type": "number",
+          "value": 10
+        },
+        "moveType": "vertical",
+        "useCollisions": false
+      },
+      "id": "9105f6da-9e0e-4c34-9f5b-bb81604e3995"
+    },
+    {
+      "command": "EVENT_ACTOR_DEACTIVATE",
+      "args": {
+        "actorId": "$self$"
+      },
+      "id": "5d888c33-a50c-473a-853b-fa997df291cb"
+    }
+  ],
+  "hit1Script": [],
+  "hit2Script": [],
+  "hit3Script": [],
+  "x": 8,
+  "y": 9,
+  "_index": 0
+}

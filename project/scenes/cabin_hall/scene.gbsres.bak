@@ -1,0 +1,30 @@
+{
+  "_resourceType": "scene",
+  "id": "7540ea4c-e35f-4bd6-a149-1c11dbb2ecb6",
+  "_index": 3,
+  "name": "Cabin hall",
+  "backgroundId": "d2c54354-3645-4a64-817f-404939216c46",
+  "tilesetId": "",
+  "width": 34,
+  "height": 18,
+  "type": "TOPDOWN",
+  "paletteIds": [
+    "",
+    null,
+    null,
+    ""
+  ],
+  "spritePaletteIds": [
+    null,
+    ""
+  ],
+  "collisions": "001d+0f!0021+0f!0021+0f!0021+0f!0021+0f!0021+0f!0021+0f!0021+0f!0021+0f!0021+0f!004+0f6+002+0f6+002+0f6+002+0f6+00ae+0f6+002+0f6+002+0f6+002+0fa+0022+",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_0",
+  "x": 1168,
+  "y": 224,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}

@@ -1,0 +1,43 @@
+{
+  "_resourceType": "variables",
+  "variables": [
+    {
+      "id": "64344eef-1dee-4423-a2f4-280ea84b4198__L0",
+      "name": "have_revolver",
+      "symbol": "var_have_revolver"
+    },
+    {
+      "id": "b1e2565b-5ff2-4ee1-a40b-f70d040e95d3__L0",
+      "name": "Local 0",
+      "symbol": "var_local_2"
+    },
+    {
+      "id": "e244d45e-8201-4262-9915-9a4e84a4f036__L1",
+      "name": "Local 1",
+      "symbol": "var_local_1"
+    },
+    {
+      "id": "2",
+      "name": "items",
+      "symbol": "var_items",
+      "flags": {
+        "flag1": "revolver"
+      }
+    },
+    {
+      "id": "1",
+      "name": "Variable 1",
+      "symbol": "var_variable_0"
+    },
+    {
+      "id": "0",
+      "name": "first_time_cabin",
+      "symbol": "var_first_time_cabin_0"
+    },
+    {
+      "id": "e875985c-d7b7-42b2-be32-1e48b00bf6f7__L0",
+      "name": "Local 0",
+      "symbol": "var_local_0"
+    }
+  ]
+}
