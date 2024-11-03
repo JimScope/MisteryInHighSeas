@@ -1,0 +1,109 @@
+{
+  "_resourceType": "scene",
+  "id": "aeae67f8-724d-4b0c-ae35-603b2849b00d",
+  "_index": 0,
+  "name": "Ship",
+  "backgroundId": "6ee61528-98c0-4481-ab7b-3b7f2eb31780",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "LOGO",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "",
+  "autoFadeSpeed": 2,
+  "symbol": "scene_2",
+  "x": 480,
+  "y": 240,
+  "script": [
+    {
+      "command": "EVENT_MUSIC_PLAY",
+      "args": {
+        "musicId": "44c2c120-f0a4-4d06-8793-a805a71851c1",
+        "__collapse": true
+      },
+      "id": "6ab15c78-7115-45a3-a828-ace3bc983f6f"
+    },
+    {
+      "command": "EVENT_WAIT",
+      "args": {
+        "time": 2,
+        "frames": 30,
+        "__collapse": true
+      },
+      "id": "94c487d4-203c-48a9-9210-40243159dc4d"
+    },
+    {
+      "command": "EVENT_SET_MASTER_VOL",
+      "args": {
+        "l": 2,
+        "r": 2,
+        "__collapse": true
+      },
+      "id": "b41b8b23-cbf0-4544-a17e-9d562357daf8"
+    },
+    {
+      "command": "EVENT_SOUND_PLAY_EFFECT",
+      "args": {
+        "type": "c1a4a46d-49e4-4c59-89b1-d72d0c7d35fd",
+        "priority": "high",
+        "pitch": 4,
+        "frequency": 200,
+        "duration": 0.5,
+        "wait": true,
+        "effect": 0,
+        "__collapse": true
+      },
+      "id": "7055ef26-5ccd-4156-a3c9-c03c213da6b1"
+    },
+    {
+      "command": "EVENT_ACTOR_EMOTE",
+      "args": {
+        "actorId": "$self$",
+        "emoteId": "56423c9c-dca0-4f5b-ad92-28e9660d50f1",
+        "__collapse": true
+      },
+      "id": "f080a2bb-9808-4ca4-9fca-313d0ee5e3b4"
+    },
+    {
+      "command": "EVENT_WAIT",
+      "args": {
+        "time": 2,
+        "frames": 30,
+        "__collapse": true
+      },
+      "id": "eb2aba1b-6ac5-461b-af05-991f17010b33"
+    },
+    {
+      "command": "EVENT_SET_MASTER_VOL",
+      "args": {
+        "l": 7,
+        "r": 7,
+        "__collapse": true
+      },
+      "id": "37ffeed8-b0b3-4e54-b3f3-0b66415dd742"
+    },
+    {
+      "command": "EVENT_SWITCH_SCENE",
+      "args": {
+        "sceneId": "e244d45e-8201-4262-9915-9a4e84a4f036",
+        "x": {
+          "type": "number",
+          "value": 0
+        },
+        "y": {
+          "type": "number",
+          "value": 0
+        },
+        "direction": "",
+        "fadeSpeed": 3,
+        "__collapse": true
+      },
+      "id": "a40dd1c4-847b-4b0b-b0f2-1cb468f660d5"
+    }
+  ],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "autoFadeEventCollapse": true
+}

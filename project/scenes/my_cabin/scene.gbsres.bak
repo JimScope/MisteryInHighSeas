@@ -1,0 +1,121 @@
+{
+  "_resourceType": "scene",
+  "id": "935b5aa2-7039-41e4-baec-59bec2c65d64",
+  "_index": 1,
+  "name": "My cabin",
+  "backgroundId": "376c0fa8-d3d9-4c41-974a-2251669785a6",
+  "tilesetId": "",
+  "width": 26,
+  "height": 18,
+  "type": "TOPDOWN",
+  "paletteIds": [
+    "default-bg-5"
+  ],
+  "spritePaletteIds": [
+    ""
+  ],
+  "collisions": "0036+0f4+004+0fa+002+0f4+00!0f!0018+0f2+004+0f!002+0f!005+0f!002e+0f4+0030+0f2+0018+0f2+0029+0f2+0018+0f2+0085+0f6+00a+0f4+",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_3",
+  "x": 920,
+  "y": 224,
+  "script": [
+    {
+      "command": "EVENT_ACTOR_SET_DIRECTION",
+      "args": {
+        "actorId": "$self$",
+        "direction": {
+          "type": "direction",
+          "value": "right"
+        },
+        "__collapse": true
+      },
+      "id": "be2fbc3e-cbf3-41bd-808d-9b4d38e9cae4"
+    },
+    {
+      "command": "EVENT_ACTOR_SET_DIRECTION",
+      "args": {
+        "actorId": "028f1423-bb2c-4bfe-bccb-a0c207f2dabc",
+        "direction": {
+          "type": "direction",
+          "value": "right"
+        },
+        "__collapse": true
+      },
+      "id": "c31d4507-d9a5-4569-8bac-cdbf66a4f369"
+    },
+    {
+      "command": "EVENT_ACTOR_EMOTE",
+      "args": {
+        "actorId": "$self$",
+        "emoteId": "56423c9c-dca0-4f5b-ad92-28e9660d50f1",
+        "__collapse": true
+      },
+      "id": "7596250c-ff58-4b84-8f29-a92493a377e7"
+    },
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "¿Qué ha pasado?"
+        ],
+        "__section": "behavior",
+        "avatarId": "",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": true,
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30,
+        "__collapse": true
+      },
+      "id": "1e2298eb-5b12-4e5a-86d6-84a904d10819"
+    },
+    {
+      "command": "EVENT_TEXT",
+      "args": {
+        "text": [
+          "Nada bueno..."
+        ],
+        "__section": "text",
+        "avatarId": "",
+        "minHeight": 4,
+        "maxHeight": 7,
+        "textX": 1,
+        "textY": 1,
+        "textHeight": 5,
+        "position": "bottom",
+        "clearPrevious": true,
+        "showFrame": "true",
+        "speedIn": -1,
+        "speedOut": -1,
+        "closeWhen": "key",
+        "closeButton": "a",
+        "closeDelayTime": 0.5,
+        "closeDelayFrames": 30,
+        "__collapse": true
+      },
+      "id": "d52e782d-a658-4cfd-80bc-f7e0cc6eaa5d"
+    },
+    {
+      "command": "EVENT_ACTOR_START_UPDATE",
+      "args": {
+        "actorId": "028f1423-bb2c-4bfe-bccb-a0c207f2dabc",
+        "__collapse": true
+      },
+      "id": "5953e659-000e-4223-813e-c6544cfe9302"
+    }
+  ],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": [],
+  "autoFadeEventCollapse": true
+}

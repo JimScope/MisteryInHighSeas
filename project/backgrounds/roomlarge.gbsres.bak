@@ -1,0 +1,12 @@
+{
+  "_resourceType": "background",
+  "id": "f84a6e99-14be-4e6c-b554-fe9043ed8559",
+  "name": "RoomLarge",
+  "symbol": "bg_roomlarge",
+  "width": 24,
+  "height": 18,
+  "imageWidth": 192,
+  "imageHeight": 144,
+  "filename": "RoomLarge.png",
+  "tileColors": "00d8+804+0014+804+0044+804+0014+804+0042+802+0018+"
+}

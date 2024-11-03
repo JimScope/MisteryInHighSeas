@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "7cd6073b-012d-4402-9753-a55e9b7c5c0c",
+  "name": "StartScene",
+  "symbol": "bg_startscene",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "filename": "StartScene.png",
+  "autoColor": true,
+  "tileColors": ""
+}
