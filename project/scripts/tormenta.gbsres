@@ -1,0 +1,129 @@
+{
+  "_resourceType": "script",
+  "id": "c3884d36-529f-4e0b-8f75-1e0c8d034ac7",
+  "name": "Tormenta",
+  "description": "",
+  "variables": {},
+  "actors": {},
+  "symbol": "script_1",
+  "script": [
+    {
+      "command": "EVENT_PALETTE_SET_BACKGROUND",
+      "args": {
+        "palette0": "a931ded4-a8ee-4263-976f-8537d398859e",
+        "palette1": "keep",
+        "palette2": "keep",
+        "palette3": "keep",
+        "palette4": "keep",
+        "palette5": "keep",
+        "palette6": "keep",
+        "palette7": "keep",
+        "__collapse": true
+      },
+      "id": "78d5113f-91ae-4ffd-9bbd-fbc7385babfc"
+    },
+    {
+      "command": "EVENT_WAIT",
+      "args": {
+        "time": {
+          "type": "number",
+          "value": 0.1
+        },
+        "frames": {
+          "type": "number",
+          "value": 30
+        },
+        "__collapse": true
+      },
+      "id": "be332a8f-bf79-4947-92de-2b3714713320"
+    },
+    {
+      "command": "EVENT_PALETTE_SET_BACKGROUND",
+      "args": {
+        "palette0": "4a1057f1-6dee-4e16-b92f-63a8d85bea6f",
+        "palette1": "keep",
+        "palette2": "keep",
+        "palette3": "keep",
+        "palette4": "keep",
+        "palette5": "keep",
+        "palette6": "keep",
+        "palette7": "keep",
+        "__collapse": true
+      },
+      "id": "5d881323-fb0e-487c-90b0-1c7b03fc9547"
+    },
+    {
+      "command": "EVENT_SOUND_PLAY_EFFECT",
+      "args": {
+        "type": "3f7dd6cc-36cb-41d2-b3c8-4213eb66b6b3",
+        "priority": "medium",
+        "pitch": 1,
+        "frequency": 200,
+        "duration": 2,
+        "wait": true,
+        "effect": 30
+      },
+      "id": "1d307e10-8de1-4626-82b7-744ca458bdd7"
+    },
+    {
+      "command": "EVENT_WAIT",
+      "args": {
+        "time": {
+          "type": "number",
+          "value": 0.1
+        },
+        "frames": {
+          "type": "number",
+          "value": 30
+        },
+        "__collapse": true
+      },
+      "id": "cafab5a2-ae9b-4366-a4e7-103cf696fe99"
+    },
+    {
+      "command": "EVENT_PALETTE_SET_BACKGROUND",
+      "args": {
+        "palette0": "a931ded4-a8ee-4263-976f-8537d398859e",
+        "palette1": "keep",
+        "palette2": "keep",
+        "palette3": "keep",
+        "palette4": "keep",
+        "palette5": "keep",
+        "palette6": "keep",
+        "palette7": "keep",
+        "__collapse": true
+      },
+      "id": "95280a95-3da0-4b8e-a38d-d71d04b23a0f"
+    },
+    {
+      "command": "EVENT_WAIT",
+      "args": {
+        "time": {
+          "type": "number",
+          "value": 0.05
+        },
+        "frames": {
+          "type": "number",
+          "value": 30
+        },
+        "__collapse": true
+      },
+      "id": "8de081e6-0057-400c-8b55-61a0687fdb7e"
+    },
+    {
+      "command": "EVENT_PALETTE_SET_BACKGROUND",
+      "args": {
+        "palette0": "4a1057f1-6dee-4e16-b92f-63a8d85bea6f",
+        "palette1": "keep",
+        "palette2": "keep",
+        "palette3": "keep",
+        "palette4": "keep",
+        "palette5": "keep",
+        "palette6": "keep",
+        "palette7": "keep",
+        "__collapse": true
+      },
+      "id": "ecaaa177-72ba-42a7-a759-2cee4c250a61"
+    }
+  ]
+}

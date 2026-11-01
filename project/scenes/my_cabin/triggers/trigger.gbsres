@@ -112,7 +112,8 @@
                 "value": 3
               },
               "moveType": "vertical",
-              "useCollisions": false
+              "useCollisions": false,
+              "collideWith": []
             },
             "id": "9a809e0e-9cbb-40cd-88f4-27b21c5db062"
           }

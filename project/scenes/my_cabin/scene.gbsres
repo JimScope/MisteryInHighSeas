@@ -2,23 +2,24 @@
   "_resourceType": "scene",
   "id": "935b5aa2-7039-41e4-baec-59bec2c65d64",
   "_index": 1,
+  "type": "TOPDOWN",
   "name": "My cabin",
-  "backgroundId": "376c0fa8-d3d9-4c41-974a-2251669785a6",
-  "tilesetId": "",
+  "symbol": "scene_3",
+  "x": 872,
+  "y": 512,
   "width": 26,
   "height": 18,
-  "type": "TOPDOWN",
+  "backgroundId": "376c0fa8-d3d9-4c41-974a-2251669785a6",
+  "tilesetId": "",
+  "colorModeOverride": "none",
   "paletteIds": [
     "default-bg-5"
   ],
   "spritePaletteIds": [
     ""
   ],
-  "collisions": "0036+0f4+004+0fa+002+0f4+00!0f!0018+0f2+004+0f!002+0f!005+0f!002e+0f4+0030+0f2+0018+0f2+0029+0f2+0018+0f2+0085+0f6+00a+0f4+",
   "autoFadeSpeed": 1,
-  "symbol": "scene_3",
-  "x": 872,
-  "y": 512,
+  "autoFadeEventCollapse": true,
   "script": [
     {
       "command": "EVENT_ACTOR_SET_DIRECTION",
@@ -117,5 +118,5 @@
   "playerHit1Script": [],
   "playerHit2Script": [],
   "playerHit3Script": [],
-  "autoFadeEventCollapse": true
+  "collisions": "0036+0f4+004+0fa+002+0f4+00!0f!0018+0f2+004+0f!002+0f!005+0f!002e+0f4+0030+0f2+0018+0f2+0029+0f2+0018+0f2+0085+0f6+00a+0f4+"
 }

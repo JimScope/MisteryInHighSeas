@@ -2,21 +2,31 @@
   "_resourceType": "scene",
   "id": "e244d45e-8201-4262-9915-9a4e84a4f036",
   "_index": 2,
-  "name": "Start",
-  "backgroundId": "17895cf3-9231-49fe-a570-c10675b5cb5b",
-  "tilesetId": "",
-  "width": 20,
-  "height": 18,
   "type": "LOGO",
-  "paletteIds": [],
-  "spritePaletteIds": [
-    ""
-  ],
-  "collisions": "00168+",
-  "autoFadeSpeed": 2,
+  "name": "Start",
   "symbol": "scene_4",
   "x": 696,
   "y": 512,
+  "width": 20,
+  "height": 18,
+  "backgroundId": "17895cf3-9231-49fe-a570-c10675b5cb5b",
+  "tilesetId": "",
+  "colorModeOverride": "none",
+  "paletteIds": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "spritePaletteIds": [
+    ""
+  ],
+  "autoFadeSpeed": 2,
+  "autoFadeEventCollapse": true,
   "script": [
     {
       "command": "EVENT_SET_FLAGS",
@@ -91,5 +101,5 @@
   "playerHit1Script": [],
   "playerHit2Script": [],
   "playerHit3Script": [],
-  "autoFadeEventCollapse": true
+  "collisions": "00168+"
 }

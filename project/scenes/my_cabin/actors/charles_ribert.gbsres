@@ -1,20 +1,25 @@
 {
   "_resourceType": "actor",
   "id": "028f1423-bb2c-4bfe-bccb-a0c207f2dabc",
+  "_index": 0,
+  "symbol": "actor_0",
+  "prefabId": "",
   "name": "Charles Ribert",
+  "coordinateType": "tiles",
+  "x": 8,
+  "y": 9,
   "frame": 0,
   "animate": false,
   "spriteSheetId": "529a62c2-447a-4047-abad-c626ec64ca59",
-  "prefabId": "",
+  "paletteId": "",
   "direction": "down",
   "moveSpeed": 2,
   "animSpeed": 15,
-  "paletteId": "",
   "isPinned": false,
   "persistent": false,
   "collisionGroup": "",
+  "collisionExtraFlags": [],
   "prefabScriptOverrides": {},
-  "symbol": "actor_0",
   "script": [],
   "startScript": [
     {
@@ -40,7 +45,8 @@
           "value": 10
         },
         "moveType": "vertical",
-        "useCollisions": false
+        "useCollisions": false,
+        "collideWith": []
       },
       "id": "9105f6da-9e0e-4c34-9f5b-bb81604e3995"
     },
@@ -54,8 +60,5 @@
   ],
   "hit1Script": [],
   "hit2Script": [],
-  "hit3Script": [],
-  "x": 8,
-  "y": 9,
-  "_index": 0
+  "hit3Script": []
 }

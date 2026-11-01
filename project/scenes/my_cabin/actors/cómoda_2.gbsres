@@ -1,20 +1,25 @@
 {
   "_resourceType": "actor",
   "id": "b1e2565b-5ff2-4ee1-a40b-f70d040e95d3",
+  "_index": 2,
+  "symbol": "actor_1",
+  "prefabId": "",
   "name": "Cómoda",
+  "coordinateType": "tiles",
+  "x": 7,
+  "y": 4,
   "frame": 0,
   "animate": false,
   "spriteSheetId": "bd5826f7-09a5-4c27-bc43-5912ce65a36e",
-  "prefabId": "",
+  "paletteId": "",
   "direction": "down",
   "moveSpeed": 1,
   "animSpeed": 15,
-  "paletteId": "",
   "isPinned": false,
   "persistent": false,
   "collisionGroup": "",
+  "collisionExtraFlags": [],
   "prefabScriptOverrides": {},
-  "symbol": "actor_1",
   "script": [
     {
       "command": "EVENT_IF_FLAGS_COMPARE",
@@ -110,8 +115,5 @@
   "updateScript": [],
   "hit1Script": [],
   "hit2Script": [],
-  "hit3Script": [],
-  "x": 7,
-  "y": 4,
-  "_index": 2
+  "hit3Script": []
 }

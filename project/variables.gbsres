@@ -39,5 +39,6 @@
       "name": "Local 0",
       "symbol": "var_local_0"
     }
-  ]
+  ],
+  "constants": []
 }

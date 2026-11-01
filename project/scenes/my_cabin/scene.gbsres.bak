@@ -17,8 +17,8 @@
   "collisions": "0036+0f4+004+0fa+002+0f4+00!0f!0018+0f2+004+0f!002+0f!005+0f!002e+0f4+0030+0f2+0018+0f2+0029+0f2+0018+0f2+0085+0f6+00a+0f4+",
   "autoFadeSpeed": 1,
   "symbol": "scene_3",
-  "x": 920,
-  "y": 224,
+  "x": 872,
+  "y": 512,
   "script": [
     {
       "command": "EVENT_ACTOR_SET_DIRECTION",

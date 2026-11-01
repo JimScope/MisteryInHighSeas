@@ -40,7 +40,7 @@
           "value": 10
         },
         "moveType": "vertical",
-        "useCollisions": true
+        "useCollisions": false
       },
       "id": "9105f6da-9e0e-4c34-9f5b-bb81604e3995"
     },

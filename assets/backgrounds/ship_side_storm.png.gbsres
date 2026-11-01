@@ -1,0 +1,13 @@
+{
+  "_resourceType": "background",
+  "id": "24c52c28-3846-436d-a109-717779ec7536",
+  "name": "ship_side_storm",
+  "symbol": "bg_ship_side_storm",
+  "tileColors": "00168+",
+  "filename": "ship_side_storm.png",
+  "width": 20,
+  "height": 18,
+  "imageWidth": 160,
+  "imageHeight": 144,
+  "autoColor": false
+}

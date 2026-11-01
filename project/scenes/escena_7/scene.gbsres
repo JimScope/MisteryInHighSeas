@@ -2,23 +2,24 @@
   "_resourceType": "scene",
   "id": "a9d47ba3-ea69-4f3a-817e-a4684307ff5b",
   "_index": 6,
+  "type": "TOPDOWN",
   "name": "Escena 7",
-  "backgroundId": "cfa02c54-9ffb-4648-90ad-41511e5ef5fe",
-  "tilesetId": "",
+  "symbol": "scene_7",
+  "x": 1136,
+  "y": 144,
   "width": 20,
   "height": 18,
-  "type": "TOPDOWN",
+  "backgroundId": "cfa02c54-9ffb-4648-90ad-41511e5ef5fe",
+  "tilesetId": "",
+  "colorModeOverride": "none",
   "paletteIds": [
     "dmg"
   ],
   "spritePaletteIds": [],
-  "collisions": "002c+0fc+007+0f!00c+0f!006+0f5+008+0f!006+0f!009+0f3+007+0f!006+0f2+00!0f3+007+0f!00c+0f!006+0f!00c+0f!006+0f3+00a+0f!006+0f5+008+0f!006+0f3+00a+0f!006+0f!00c+0f!006+0f!00c+0f!006+0f!00c+0f!006+0f!00c+0f!007+0f6+002+0f4+0018+",
   "autoFadeSpeed": 1,
-  "symbol": "scene_7",
-  "x": 1136,
-  "y": 144,
   "script": [],
   "playerHit1Script": [],
   "playerHit2Script": [],
-  "playerHit3Script": []
+  "playerHit3Script": [],
+  "collisions": "002c+0fc+007+0f!00c+0f!006+0f5+008+0f!006+0f!009+0f3+007+0f!006+0f2+00!0f3+007+0f!00c+0f!006+0f!00c+0f!006+0f3+00a+0f!006+0f5+008+0f!006+0f3+00a+0f!006+0f!00c+0f!006+0f!00c+0f!006+0f!00c+0f!006+0f!00c+0f!007+0f6+002+0f4+0018+"
 }

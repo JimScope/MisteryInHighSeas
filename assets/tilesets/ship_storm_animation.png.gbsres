@@ -1,0 +1,11 @@
+{
+  "_resourceType": "tileset",
+  "id": "7a39fd02-ab49-49ac-afe5-5741366950e9",
+  "name": "ship_storm_animation",
+  "symbol": "tileset_ship_storm_animatio",
+  "width": 16,
+  "height": 4,
+  "imageWidth": 128,
+  "imageHeight": 32,
+  "filename": "ship_storm_animation.png"
+}
