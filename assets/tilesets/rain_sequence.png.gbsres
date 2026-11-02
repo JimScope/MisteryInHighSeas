@@ -1,0 +1,11 @@
+{
+  "_resourceType": "tileset",
+  "id": "50596385-bd02-4c06-a65d-11599c3485f3",
+  "name": "rain_sequence",
+  "symbol": "tileset_rain_sequence",
+  "width": 8,
+  "height": 1,
+  "imageWidth": 64,
+  "imageHeight": 8,
+  "filename": "rain_sequence.png"
+}

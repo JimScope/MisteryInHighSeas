@@ -38,6 +38,46 @@
       "id": "e875985c-d7b7-42b2-be32-1e48b00bf6f7__L0",
       "name": "Local 0",
       "symbol": "var_local_0"
+    },
+    {
+      "id": "3",
+      "name": "Rain 01 frame",
+      "symbol": "var_rain_01_frame"
+    },
+    {
+      "id": "4",
+      "name": "Rain 02 frame",
+      "symbol": "var_rain_02_frame"
+    },
+    {
+      "id": "5",
+      "name": "Rain 03 frame",
+      "symbol": "var_rain_03_frame"
+    },
+    {
+      "id": "6",
+      "name": "Rain 04 frame",
+      "symbol": "var_rain_04_frame"
+    },
+    {
+      "id": "7",
+      "name": "Rain 05 frame",
+      "symbol": "var_rain_05_frame"
+    },
+    {
+      "id": "8",
+      "name": "Rain 06 frame",
+      "symbol": "var_rain_06_frame"
+    },
+    {
+      "id": "9",
+      "name": "Rain 07 frame",
+      "symbol": "var_rain_07_frame"
+    },
+    {
+      "id": "10",
+      "name": "Rain 08 frame",
+      "symbol": "var_rain_08_frame"
     }
   ],
   "constants": []

@@ -9,7 +9,7 @@
   "y": 512,
   "width": 20,
   "height": 18,
-  "backgroundId": "24c52c28-3846-436d-a109-717779ec7536",
+  "backgroundId": "b65bda9a-fddb-4b99-a0a1-5285877bc4a4",
   "tilesetId": "",
   "colorModeOverride": "none",
   "paletteIds": [
@@ -33,6 +33,14 @@
         "__collapse": true
       },
       "id": "6ab15c78-7115-45a3-a828-ace3bc983f6f"
+    },
+    {
+      "id": "b739339e-8b7b-4358-aa6c-1adb8a9d10df",
+      "command": "EVENT_CALL_CUSTOM_EVENT",
+      "args": {
+        "customEventId": "2c4d16b8-43ba-4997-a24c-33d53d8972af",
+        "__collapse": true
+      }
     },
     {
       "command": "EVENT_WAIT",
